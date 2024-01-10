@@ -1,4 +1,4 @@
-# Phonepe-pluse
+# Phonepe-pulse
 
 ## Problem Statement:
 The Phonepe pulse Github repository contains a large amount of data related to
