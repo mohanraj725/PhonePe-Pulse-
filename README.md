@@ -44,6 +44,15 @@ accessible to users.
 This approach leverages the power of Python and its numerous libraries to extract,
 transform, and analyze data, and to create a user-friendly dashboard for visualizing
 the insights obtained from the data.
+## THE MAIN COMPONENTS OF DASHBOARD ARE
+
+1 GEO-VISUALIZATION
+
+2 TRANSACTIONS ANALYSIS
+
+3 USERS ANALYSIS
+
+4 TOP STATES DATA
 ## Results:
 The result of this project will be a live geo visualization dashboard that displays
 information and insights from the Phonepe pulse Github repository in an interactive
@@ -58,3 +67,7 @@ Github repository, making it a valuable tool for data analysis and decision-maki
 Overall, the result of this project will be a comprehensive and user-friendly solution
 for extracting, transforming, and visualizing data from the Phonepe pulse Github
 repository.
+
+## Referance 
+PhonePe Pluse :- https://www.phonepe.com/pulse/
+PhonePe Pulse GitHub :- https://github.com/tulasinnd/PhonePe-Pulse-Data-2018-2022-Analysis
